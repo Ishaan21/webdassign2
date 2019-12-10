@@ -1,0 +1,220 @@
+
+
+body{
+	background-image: url(assets/back.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.bg-image{
+	height:700px;
+}
+
+.navbar-default {
+
+	background-color: transparent;
+	border: none;
+
+}
+
+.navbar-default .navbar-nav>.active>a{
+	background-color: transparent;
+}
+
+.navbar-default .navbar-nav>.active>a:hover {
+	background-color: transparent;
+	color: white;
+}
+.navbar-default .navbar-nav>li{
+	padding: 20px 20px 20px 20px;
+
+}
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-default .navbar-nav>li:hover {
+	border-bottom: 1px solid white;
+	transition: 0.2s;
+}
+.navbar-default .navbar-brand {
+    color: white;
+}	
+.navbar-default .navbar-nav>.active>a{
+	color:white;
+}	
+
+
+}
+.navbar-default>.navbar-nav>li>a:hover {
+	color:white;
+
+}
+.navbar-brand {
+	padding: 35px 40px;
+	text-transform: uppercase;
+}
+#content {
+	text-align: center;
+	padding-top: 25%;
+	color: white;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,2);
+}
+
+.intro {
+	clear: both;
+	background-color: white;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.intro p {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	line-height: 35px;
+	letter-spacing: 1px;
+}
+
+.intro h2 {
+	text-align: center;
+	font-family: 'Shift', sans-serif;
+	font-size: 24px;
+	text-transform: uppercase;
+	letter-spacing: 1.3px;
+	padding-bottom: 20px;
+	border-bottom: 2px solid black;
+	color: black;
+	font-weight: 600;
+		  
+}
+
+.supporting .big {
+	text-align: center;
+	font-family: 'Shift', sans-serif;
+	font-size: 24px;
+	text-transform: uppercase;
+	text-decoration: underline;
+	letter-spacing: 1.3px;
+	color:white;
+}
+.supporting {
+    padding-top: 40px;
+    padding-bottom: 100px;
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+}
+
+.supporting .col {
+            
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+	background-color: white;
+	margin-left: 3px;
+	margin-top: 3px;
+	height: 200px;
+		
+}
+
+.col {
+	padding-top: 30px;
+	 
+}
+
+.supporting img {
+    height: 40px;
+}
+
+.supporting h2 {
+    font-weight: 600;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.supporting p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 0 50px;
+    margin-bottom: 40px;
+}
+
+.clearfix {
+    clear: both;
+}
+.Contacts .col2{
+	  
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+.col2 a {
+	text-transform: lowercase;
+}
+.col2{
+ 	padding-bottom: 60px;
+}
+	  
+
+.Contacts {
+	background-color: white;
+	padding-top: 40px;
+}
+.Contacts p{
+	line-height: 20px;
+	color: white;
+}
+.color {
+	background-color: black;
+	margin-left: 10px;
+	padding-bottom: 30px;
+	padding-left: 15px;
+	padding-right: 15px;
+	height: 200px;
+} 
+.color2 {
+	background-color: black;
+	margin-left: 10px;
+	padding-bottom: 85px;
+	height: 200px;
+}
+	  
+.Contacts a{
+	color: white;
+	font-weight: none;
+}
+	  
+.Contacts h2 {
+	text-align: center;
+	font-family: 'Shift', sans-serif;
+	font-size: 24px;
+	text-transform: uppercase;
+	text-decoration: underline;
+	letter-spacing: 1.3px;
+	color: black;
+}
+.color2>h3, .color>h3 {
+	padding-top: 20px;
+	color: white;
+}	  
+.footer {
+    background-color: black;
+    color: #fff;
+    padding: 30px 35px;
+}
+.footer p {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 16px;
+	color: #fff;
+}
